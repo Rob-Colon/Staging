@@ -1,0 +1,26 @@
+:root {
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  background: red;
+  height: 100px;
+}
+
+.about {
+  background: green;
+  height: 100px;
+}
+.work {
+  background: blue;
+  height: 100px;
+}
+.contact {
+  background: yellow;
+  height: 100px;
+}
+.links {
+  background: purple;
+  height: 100px;
+}
